@@ -5,3 +5,5 @@
 2. Machine learning (Linear Regression, KNN, Decision Trees, Logistic Regression, SVM etc.);
 3. SQL;
 4. Visualization (Dash, Tableau, etc.);
+5. Data Analysis;
+6. My certificates
