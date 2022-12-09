@@ -6,4 +6,4 @@
 3. SQL;
 4. Visualization (Dash, Tableau, etc.);
 5. Data Analysis;
-6. My certificates
+6. My certificates.
